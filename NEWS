@@ -1,0 +1,66 @@
+9
+
+ENHANCEMENTS:
+* Customize ball
+* Smoother transitions between levels of difficulty
+* Internal refactoring of code to make it easier to read (view source)
+
+8
+
+ENHANCEMENTS:
+* New tallying mechanism to better monitor progress
+* Added support for multi-player version
+
+7
+
+ENHANCEMENTS:
+* simplify EASY level
+
+6
+
+ENHANCEMENTS:
+* es translations
+
+5
+
+ENHANCEMENTS:
+* Added support for both fractions and percentages
+* Added 8ths and 16ths
+* Label misses
+* Scaled initial horizontal velocity based on screen size
+* Added horizontal acceleration during key press
+* Added center mark on landing point
+* Added support for adding custom fractions
+* Added support for old-style Sugar toolbars
+
+JUST FOR FUN:
+* Added sound
+* Added an Easter Egg
+
+BUG FIXES:
+* Generated SVG for bar using float to prevent aliasing
+
+4
+
+* Add play levels: simple vs compound fractions
+* Stop left-right movement on key release (#3152)
+
+3
+
+* Support for accelerometer when available (XO 1.75)
+* Acceleration model for ball
+* Label ball with current fraction challenge
+* Add scale to bar
+
+2
+
+* Added bar for reference at bottom of screen
+* Fixed path problem preventing activity launch
+
+1
+
+* New activity: bounce the ball onto the fraction
+
+
+
+
